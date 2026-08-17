@@ -2,8 +2,6 @@
 
 ### Engineering Student | Developer
 
-> Building practical applications and learning by turning ideas into projects.
-
 I'm an engineering student interested in **web development, full-stack applications, and AI-powered solutions**. I enjoy taking ideas from concept to working projects and continuously learning new technologies.
 
 ---
@@ -26,25 +24,15 @@ I'm an engineering student interested in **web development, full-stack applicati
 
 ### 🛠️ Technologies
 
-**Frontend**
+**Frontend**- HTML • CSS • JavaScript
 
-HTML • CSS • JavaScript
+**Backend**- Node.js • Express.js
 
-**Backend**
+**Database**- MongoDB • MongoDB Atlas
 
-Node.js • Express.js
+**Programming**- C • Java • Python
 
-**Database**
-
-MongoDB • MongoDB Atlas
-
-**Programming**
-
-C • Java • Python
-
-**Tools**
-
-Git • GitHub • VS Code
+**Tools**- Git • GitHub • VS Code
 
 ### 📌 Currently Learning
 
