@@ -22,6 +22,6 @@ Python • C • Java
 
 📫 Connect with me
 
-LinkedIn- www.linkedin.com/in/arushisingh21
-Portfolio- https://personal-portfolio-eight-pi-63.vercel.app/
+LinkedIn- www.linkedin.com/in/arushisingh21 | 
+Portfolio- https://personal-portfolio-eight-pi-63.vercel.app/ | 
 Email- arushi.s246@gmail.com
