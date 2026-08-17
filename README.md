@@ -14,7 +14,7 @@ I'm an engineering student interested in **web development, full-stack applicati
 - 🌐 **[Personal Portfolio](https://github.com/arushi21s06/Personal-Portfolio)**
   - Full-stack personal portfolio with dynamic project data, Express.js, and MongoDB Atlas.
 
-- ⏱️ **[Stopwatch](YOUR_STOPWATCH_LINK)**
+- ⏱️ **[Stopwatch](https://github.com/arushi21s06/PRODIGY_WD_02)**
   - Interactive browser-based stopwatch application.
 
 - 🎮 **[Tic-Tac-Toe](YOUR_TICTACTOE_LINK)**
