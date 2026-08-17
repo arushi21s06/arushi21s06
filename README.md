@@ -6,6 +6,8 @@
 
 I'm an engineering student interested in **web development, full-stack applications, and AI-powered solutions**. I enjoy taking ideas from concept to working projects and continuously learning new technologies.
 
+---
+
 ### 🚀 Featured Projects
 
 - 🛡️ **[SafeTrip AI](YOUR_SAFETRIP_GITHUB_LINK)**
@@ -19,6 +21,8 @@ I'm an engineering student interested in **web development, full-stack applicati
 
 - 🎮 **[Tic-Tac-Toe](YOUR_TICTACTOE_LINK)**
   - Interactive browser-based game built with web technologies.
+
+---
 
 ### 🛠️ Technologies
 
@@ -48,6 +52,8 @@ Git • GitHub • VS Code
 - AI Integration
 - Cloud Deployment
 - Building and deploying real-world applications
+
+---
 
 ### 🌐 Connect With Me
 
