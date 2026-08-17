@@ -17,7 +17,7 @@ I'm an engineering student interested in **web development, full-stack applicati
 - ⏱️ **[Stopwatch](https://github.com/arushi21s06/PRODIGY_WD_02)**
   - Interactive browser-based stopwatch application.
 
-- 🎮 **[Tic-Tac-Toe](YOUR_TICTACTOE_LINK)**
+- 🎮 **[Tic-Tac-Toe](https://github.com/arushi21s06/PRODIGY_WD_03)**
   - Interactive browser-based game built with web technologies.
 
 ---
